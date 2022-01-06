@@ -1,4 +1,4 @@
-const input = document.querySelector("input");   // donde va el to do que quiero agregar
+const input = document.querySelector("input"); // donde va el to do que quiero agregar
 const addBtn = document.querySelector(".btn-add"); //botón para añadir una tarea
 const ul = document.querySelector("ul");
 const empty = document.querySelector(".empty");
